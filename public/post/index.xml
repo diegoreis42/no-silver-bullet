@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on No Silver Bullet</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on No Silver Bullet</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 05 Jun 2024 23:05:53 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Freela - Aprendizados</title>
+      <link>http://localhost:1313/post/primeiro-freela/</link>
+      <pubDate>Wed, 05 Jun 2024 23:05:53 -0300</pubDate>
+      <guid>http://localhost:1313/post/primeiro-freela/</guid>
+      <description>Esse é meu primeiro blog post, então se você está lendo isso, obrigado! A ideia é fazer posts assim regularmente, documentando um pouco a minha experiência como estudante de Ciência da Computação entrando no mercado de trabalho. Mas vamos ao que interessa: como foi meu primeiro &amp;lsquo;freela&amp;rsquo; e as lições que tive com ele.&#xA;Definição de Freela &amp;ldquo;Freela é todo trabalho remunerado, de escopo fechado, que quem paga e quem faz o serviço não possuem vínculo trabalhista&amp;rdquo; &amp;ndash; Eu</description>
+    </item>
+  </channel>
+</rss>

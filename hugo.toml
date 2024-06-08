@@ -1,0 +1,35 @@
+baseURL = 'https://example.org/'
+languageCode = 'pt-br'
+title = 'No Silver Bullet'
+theme = 'ananke'
+
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+  mainSections = ["post","posts"]
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+
+[Author]
+  name = "Diego Reis"
+  website = "yourwebsite.com"
+  email = "reisdiego144@gmail.com"
+  github = "diegoreis42"
+  twitter = "@DVarella5123"
+  linkedin = "https://www.linkedin.com/in/diegovarella/"
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 3
+
