@@ -38,13 +38,12 @@ aparecer depois de uma data não estavam aparecendo. Simples não? Foram esses _
 
 ## Soluções
 
-Evidentemente não vou entrar nos detalhes que eu gostaria por que o código não é meu mas basicamente
-o primeiro problema estava relacionado com a construção de um objeto de data, quebrei um pouco de cabeça mas foi relativamente
+Evidentemente não vou entrar nos detalhes que eu gostaria por que o código não é meu, mas basicamente
+o primeiro problema estava relacionado com a construção de um objeto de data, quebrei um pouco a cabeça mas foi relativamente
 tranquilo. O segundo foi _trickyer_, estava relacionada com a query que o back-end estava fazendo pra uma determinada rota. Agora
 como cheguei neles? Onde acertei? E principalmente, onde errei?
 
 ## Aprendizados
-
 
 ## 1. Se Atente ao problema
 
@@ -70,7 +69,7 @@ e as diferentes formas que elas resolvem o mesmo problema.
 
 ## 3. Crie e teste hipóteses
 
-Um lição mais prática. O método científico[1] se aplica excepcionalmente bem em sessões de debug; por exemplo, o sistema apresenta um comportamento
+Uma lição mais prática. O método científico[1] se aplica excepcionalmente bem em sessões de debug; por exemplo, o sistema apresenta um comportamento
 inesperado, após vasculhar logs, requisições, ou qualquer rastro que te dê algum indício deste comportamento, você:
 
 1. Cria um hipótese da razão deste comportamento;
@@ -88,7 +87,7 @@ você vai aprender algo novo, e não se esqueça:
 
 Por fim, assuma riscos! Estou dizendo pra apostar no macaco no próximo jogo do bixo? Não! Ou pra emprestar dinheiro pro teu parente finalmente abrir
 sua loja de sal do himalaia? Muito menos. Estou dizendo que se colocar em situações em que não se tem muito a perder, mas muito a ganhar, sempre é
-vatajoso[2], mesmo que você pense que não está 100% preparado (só não me vá chamar o popó no ringue). Cada oportunidade que te tira da zona de conforto
+vantajoso[2], mesmo que você pense que não está 100% preparado (só não me vá chamar o popó no ringue). Cada oportunidade que te tira da zona de conforto
 é uma oportunidade de ser melhor.
 
 # Conclusão
